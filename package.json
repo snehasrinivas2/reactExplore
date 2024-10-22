@@ -1,0 +1,36 @@
+{
+  "name": "reactexplore",
+  "version": "1.0.0",
+  "description": "This is react by Sneha",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehasrinivas2/reactExplore.git"
+  },
+  "keywords": [
+    "React",
+    "Sneha",
+    "Srinivas"
+  ],
+  "author": "Sneha Srinivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snehasrinivas2/reactExplore/issues"
+  },
+  "homepage": "https://github.com/snehasrinivas2/reactExplore#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
